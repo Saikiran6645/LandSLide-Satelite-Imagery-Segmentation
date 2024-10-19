@@ -1,1 +1,1 @@
-# LandSLide-Satelite-Imagery-Segmentation
+# LandSlide-Satelite-Imagery-Segmentation
